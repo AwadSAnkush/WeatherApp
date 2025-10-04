@@ -1,14 +1,8 @@
-<img width="1279" height="787" alt="image" src="https://github.com/user-attachments/assets/3d258de6-b4fe-4148-8940-1c7d2665098d" /># WeatherApp
-A modern animated weather application that displays live weather updates using the OpenWeather API. Built with pure HTML, CSS, and JavaScript.
-
-🌀 WeatherApp
+# 🌀 WeatherApp 🌦️
 
 A beautiful and animated weather application built with HTML, CSS, and JavaScript, powered by the OpenWeather API.
 It displays real-time temperature, weather conditions, and city information — all wrapped in a modern, floating-glass design.
 
-🌤 Preview
-
-# 🌦️ WeatherApp
 
 A beautiful and animated weather app built using HTML, CSS, and JavaScript.
 
