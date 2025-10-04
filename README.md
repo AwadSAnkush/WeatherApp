@@ -1,4 +1,4 @@
-# WeatherApp
+<img width="1279" height="787" alt="image" src="https://github.com/user-attachments/assets/3d258de6-b4fe-4148-8940-1c7d2665098d" /># WeatherApp
 A modern animated weather application that displays live weather updates using the OpenWeather API. Built with pure HTML, CSS, and JavaScript.
 
 🌀 WeatherApp
@@ -8,10 +8,12 @@ It displays real-time temperature, weather conditions, and city information — 
 
 🌤 Preview
 
-Add your screenshot below 👇
+# 🌦️ WeatherApp
 
+A beautiful and animated weather app built using HTML, CSS, and JavaScript.
 
-(Replace screenshot.png with your actual image file name.)
+![WeatherApp Screenshot](./WeatherApp.png)
+
 
 🚀 Features
 
@@ -39,8 +41,6 @@ OpenWeather API
 
 Clone or download this repository
 
-git clone https://github.com/YOUR-USERNAME/WeatherApp.git
-
 
 Open index.html in your browser
 
@@ -56,9 +56,6 @@ In your index.html (inside <script>), replace this line with your own key:
 
 const OPENWEATHER_KEY = "YOUR_API_KEY_HERE";
 
-
-⚠️ Note: If deploying on GitHub Pages, the API key will be visible in browser source.
-Use Netlify or Vercel with environment variables for production-grade apps.
 
 🌍 Deployment
 
